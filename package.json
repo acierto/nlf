@@ -1,5 +1,5 @@
 {
-  "name": "nlf",
+  "name": "xl-nlf",
   "title": "Node License Finder",
   "description": "Find licenses for a node application and its node_module dependencies",
   "author": "Ian Kelly <iandotkelly@gmail.com>",
